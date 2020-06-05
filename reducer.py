@@ -21,6 +21,7 @@ import sys
 
 # Sum of all sales (values) is initialized with zero, we just started
 sum_of_values = 0
+count = 0
 
 # Previous key is initialized with None, we just started
 previous_key = None
